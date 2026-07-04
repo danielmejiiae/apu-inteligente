@@ -2,6 +2,7 @@
 node_modules/
 work/
 outputs/
+.vercel
 
 .env
 .env.local
